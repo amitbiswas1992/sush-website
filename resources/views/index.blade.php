@@ -288,27 +288,27 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="content-item">
-                                <small>2010 - 2012</small>
-                                <h3>MA Product Design</h3>
-                                <h4>University of California</h4>
+                                <small>2015 - 2019</small>
+                                <h3>Bachelor Of Business Administration</h3>
+                                <h4>Notre Dame University Bangladesh</h4>
 
-                                <p>United Kingdom, London</p>
+                                <p>Dhaka, Bangladesh</p>
                             </div>
                             <!-- .experience-item -->
                             <div class="content-item">
-                                <small>2007 - 2010</small>
-                                <h3>Business marketing course</h3>
-                                <h4>Royal Academy of Business</h4>
+                                <small>2013 - 2014</small>
+                                <h3>Higher Secondary School Certificate </h3>
+                                <h4>Viqarunnisa Noon School and College</h4>
 
-                                <p>United Kingdom, London</p>
+                                <p>Dhaka, Bangladesh</p>
                             </div>
                             <!-- .experience-item -->
                             <div class="content-item">
-                                <small>2002 - 2006</small>
-                                <h3>BA (Hons) Design</h3>
-                                <h4>University of Michigan</h4>
+                                <small>2004 - 2012</small>
+                                <h3>Secondary School Certificate</h3>
+                                <h4>Viqarunnisa Noon School and College</h4>
 
-                                <p>United Kingdom, London</p>
+                                <p>Dhaka, Bangladesh</p>
                             </div>
                             <!-- .experience-item -->
                         </div>
@@ -464,7 +464,7 @@
                             </address>
                             <address>
                                 <strong>Email</strong><br>
-                                <a href="mailto:#">coffee@amelie.me</a>
+                                <a href="mailto:#">sushmita-me@outlook.com</a>
                             </address>
                         </div>
                     </div>
@@ -514,8 +514,8 @@
                     <div class="container-fluid">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="copytext">&copy; 2015 Online CV. All rights reserved | Design By: <a
-                                            href="https://themehippo.com">ThemeHippo</a></div>
+                                <div class="copytext"> sushmita &copy; 2018 Online CV. All rights reserved | Design By: <a
+                                            href="#">AB</a></div>
                             </div>
                         </div>
                         <!--.row-->
