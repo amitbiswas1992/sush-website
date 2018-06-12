@@ -441,15 +441,14 @@
                     <div class="row">
                         <div class="col-md-12">
                             <address>
-                                <strong>Address</strong><br>
-                                1355 Market Street, Suite 900<br>
-                                San Francisco, CA 94103
+                                <strong>Email is familiar. It's comfortable. It's easy to use.</strong><br>
+                                Please feel free to contact me by email <br>
                             </address>
 
-                            <address>
-                                <strong>Mobile Number</strong><br>
-                                987 654 321
-                            </address>
+                            {{--<address>--}}
+                                {{--<strong>Mobile Number</strong><br>--}}
+                                {{--987 654 321--}}
+                            {{--</address>--}}
                             <address>
                                 <strong>Email</strong><br>
                                 <a href="mailto:#">sushmita-me@outlook.com</a>
