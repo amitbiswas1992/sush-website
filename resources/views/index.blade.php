@@ -253,7 +253,7 @@
                             </div>
                             <!-- .experience-item -->
                             <div class="content-item">
-                                <small>2010 - 2012</small>
+                                <small>2015 - Present</small>
                                 <h3>Club Ambassador </h3>
                                 <h4>Notre Dame University Bangladesh</h4>
 
