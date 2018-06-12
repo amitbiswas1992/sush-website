@@ -247,7 +247,7 @@
                             <!-- .experience-item -->
                             <div class="content-item">
                                 <small>2017</small>
-                                <h3>Canpus Ambassador</h3>
+                                <h3>Campus Ambassador</h3>
                                 <h4>Young Bangla</h4>
                                 <p>Dhaka, Bangladesh</p>
                             </div>
