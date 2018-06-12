@@ -71,19 +71,12 @@
                         </div>
                         <div class="col-md-12">
                             <p>
-                                Credibly embrace visionary internal or "organic" sources and business benefits. Collaboratively
-                                integrate efficient portals rather than customized customer service. Assertively deliver
-                                frictionless services via leveraged interfaces. Conveniently evisculate accurate sources and
-                                process-centric expertise. Energistically fabricate customized imperatives through cooperative
-                                catalysts for change.
+                                I’m interested in expanding my abilities and expertise with companies where the culture and values are paramount. I see an emphasis on collaboration, personalization, and transparency as key to success. Working in an environment that’s both entrepreneurial and supportive is ideal as I strive for a “wow factor” in every facet of my work.
 
                             </p>
 
                             <p>
-                                Dramatically predominate mission-critical materials and cooperative systems. Holisticly synergize
-                                optimal results through team building "outside the box" thinking. Seamlessly facilitate frictionless
-                                relationships via robust imperatives. Monotonectally brand wireless products and excellent action
-                                items. Monotonectally disintermediate granular alignments via sustainable infomediaries.
+
                             </p>
                         </div>
                     </div>
@@ -245,27 +238,26 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="content-item">
-                                <small>2015 - Present</small>
-                                <h3>Head of market research</h3>
-                                <h4>Computer & Motor Ltd.</h4>
+                                <small>2017</small>
+                                <h3>Intern</h3>
+                                <h4>Microsoft Bangladesh</h4>
 
-                                <p>United Kingdom, London</p>
+                                <p>Dhaka, Bangladesh</p>
                             </div>
                             <!-- .experience-item -->
                             <div class="content-item">
-                                <small>2012 - 2015</small>
-                                <h3>Media Analyst</h3>
-                                <h4>BizzNiss</h4>
-
-                                <p>United Kingdom, London</p>
+                                <small>2017</small>
+                                <h3>Canpus Ambassador</h3>
+                                <h4>Young Bangla</h4>
+                                <p>Dhaka, Bangladesh</p>
                             </div>
                             <!-- .experience-item -->
                             <div class="content-item">
                                 <small>2010 - 2012</small>
-                                <h3>Budget Administrator</h3>
-                                <h4>Somsom LLC</h4>
+                                <h3>Club Ambassador </h3>
+                                <h4>Notre Dame University Bangladesh</h4>
 
-                                <p>United Kingdom, London</p>
+                                <p>Dhaka, Bangladesh</p>
                             </div>
                             <!-- .experience-item -->
                         </div>
@@ -452,10 +444,6 @@
                                 <strong>Address</strong><br>
                                 1355 Market Street, Suite 900<br>
                                 San Francisco, CA 94103
-                            </address>
-                            <address>
-                                <strong>Phone Number</strong><br>
-                                +61 3 8376 6284
                             </address>
 
                             <address>
